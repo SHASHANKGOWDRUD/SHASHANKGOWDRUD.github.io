@@ -20,6 +20,7 @@ EXCELLENCE SINCE 1927.html">Read More</a></B>
 <img src="https://user-images.githubusercontent.com/123810864/216813428-2b7c788c-efc1-4523-a2de-c6ae8f3dda3c.jpg" width=1500>
 <img src="https://user-images.githubusercontent.com/123810864/216814380-6de83335-0525-48da-a72b-b4c3a711c93e.jpg" width=1500>
 </marquee>
+</marquee>
 </p>
 <input type="button" value="Stop" onClick="document.getElementById('marquee').stop();"/>
   <input type="button" value="Start" onClick="document.getElementById('marquee').start();"/><br>
