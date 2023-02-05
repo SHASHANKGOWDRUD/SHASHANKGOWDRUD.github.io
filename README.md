@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <HTML>
 <HEAD>
 <link rel="shortcut icon" type="image/jpg" href="https://user-images.githubusercontent.com/123810864/216813431-c811b737-0437-4098-9f44-7ed121ed30bd.jpg">
@@ -13,12 +12,12 @@ the Indian Education Sector. Established in 1927, Podar Education Network strive
 create modern citizens who are ready to make global changes.<a href="TRADITION OF 
 EXCELLENCE SINCE 1927.html">Read More</a></B>
 <img src="https://user-images.githubusercontent.com/123810864/216813444-2adfacb0-bb82-4ee8-8e0d-411840b514bc.jpg" WIDTH=1500>
-<img src="https://user-images.githubusercontent.com/123810864/216813437-09d2c98f-a6d6-4a25-b62e-a990f9860164.jpg"alt="PODAR HASSAN LOGO"WIDTH=350>
+<img src="https://user-images.githubusercontent.com/123810864/216813437-09d2c98f-a6d6-4a25-b62e-a990f9860164.jpg" alt="PODAR HASSAN LOGO" WIDTH=350>
 <h2 style="color:purple;"><B><FONT SIZE=12>Podar International School - Hassan</B></h2>
 <marquee direction="left" scrollamount="20" id="marquee1"><p><img src="https://user-images.githubusercontent.com/123810864/216813425-eb0f6bef-65ef-45ea-af54-f2796134f28d.jpg" width=1500>
 <img src="https://user-images.githubusercontent.com/123810864/216813428-2b7c788c-efc1-4523-a2de-c6ae8f3dda3c.jpg" width=1500>
 <img src="https://user-images.githubusercontent.com/123810864/216814380-6de83335-0525-48da-a72b-b4c3a711c93e.jpg" width=1500>
-</marquee>
+</marquee1>
 </p>
 <input type="button" value="Stop" onClick="document.getElementById('marquee1').stop();"/>
   <input type="button" value="Start" onClick="document.getElementById('marquee1').start();"/><br>
@@ -71,7 +70,7 @@ PHONE NUMBER:<br>
 </form></B>
 <br><br><br><br><br><br><br><br>
 <img src="https://user-images.githubusercontent.com/123810864/216813440-d5edc12a-fd18-4bf7-b458-dc02e4719279.jpg"width=100%>
-<img src="(https://user-images.githubusercontent.com/123810864/216813987-38af10f7-4c40-4fc0-9149-b1dfba6ef3e4.jpg)" width=100%>
+<img src="https://user-images.githubusercontent.com/123810864/216813987-38af10f7-4c40-4fc0-9149-b1dfba6ef3e4.jpg" width=100%>
 <img src="https://user-images.githubusercontent.com/123810864/216813451-4edbe1eb-1f19-4eb0-9870-679cd0a2205b.jpg"style="float:right" width=900 >
 <h3 style="color:purple;"><B><FONT SIZE=12>Striving to be the Best!</h3>
 <font size=6>Podar International School, Hassan opened its doors in academic year 2009-2010 and has been focused on delivering quality education ever since. Podar International School is a progressive, passionate and purposeful place where independent thinking is encouraged and excellence is nurtured. We are a place that embraces learning, encourages deep thinking and takes great pleasure in the pursuit of knowledge and understanding; but, most importantly, we want to encourage our boys and girls to use their skills and intelligence to benefit society.</B>
