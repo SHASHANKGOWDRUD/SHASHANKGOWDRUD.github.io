@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <HTML>
 <HEAD>
-<TITLE>PODAR INTERNATIONAL SCHOOL HASSAN (ICSE)</TITLE>
 <link rel="shortcut icon" type="image/jpg" href="https://user-images.githubusercontent.com/123810864/216813431-c811b737-0437-4098-9f44-7ed121ed30bd.jpg">
-<style>
-p {
-background-color:#8d62a4;
-}
-</style>
 </HEAD>
 <BODY>
-<img src="https://user-images.githubusercontent.com/123810864/216813439-42d37fc4-4a9e-4586-8e85-a9a5453c3a14.png"alt="PODAR INTERNATIONAL SCHOOL LOGO"width=250>
+<img src="https://user-images.githubusercontent.com/123810864/216813439-42d37fc4-4a9e-4586-8e85-a9a5453c3a14.png" alt="PODAR INTERNATIONAL SCHOOL LOGO" width=250>
 <FONT SIZE=4><a href="https://shashankgowdrud.github.io-aboutus.html/"><B>ABOUT US</a>
 <h1 style="color:purple;"><FONT SIZE=12>TRADITION OF EXCELLENCE</B></h1>
 <FONT SIZE=6><B>Educating 2,00,000 students through 139 Podar International Schools + 92
