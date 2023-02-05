@@ -15,7 +15,7 @@ EXCELLENCE SINCE 1927.html">Read More</a></B>
 <img src="https://user-images.githubusercontent.com/123810864/216813437-09d2c98f-a6d6-4a25-b62e-a990f9860164.jpg" alt="PODAR HASSAN LOGO" WIDTH=350>
 <h2 style="color:purple;">
  <B>
- <FONT SIZE=12>Podar International School - Hassan</B></h2>
+<FONT SIZE=12>Podar International School - Hassan</B></h2>
 <marquee direction="left" scrollamount="20" id="marquee"><p><img src="https://user-images.githubusercontent.com/123810864/216813425-eb0f6bef-65ef-45ea-af54-f2796134f28d.jpg" width=1500>
 <img src="https://user-images.githubusercontent.com/123810864/216813428-2b7c788c-efc1-4523-a2de-c6ae8f3dda3c.jpg" width=1500>
 <img src="https://user-images.githubusercontent.com/123810864/216814380-6de83335-0525-48da-a72b-b4c3a711c93e.jpg" width=1500>
@@ -131,40 +131,41 @@ www.podareducation.org/school/hassan
 <img src="https://user-images.githubusercontent.com/123810864/216813447-726bcf3a-4317-46d9-bd8b-92f3acc08b42.jpg" width=1500>
 <br>
 <p>
-<img src="https://user-images.githubusercontent.com/123810864/216814113-7d89686f-b7fb-4f7d-b872-c991a18ce5e5.jpg"width=100>
+<img src="https://user-images.githubusercontent.com/123810864/216814113-7d89686f-b7fb-4f7d-b872-c991a18ce5e5.jpg" width=100>
 <br>
 <font size=4 color="white">
  
 <a href="https://www.facebook.com/podargroupofschools/">
-<img src="https://user-images.githubusercontent.com/123810864/216813429-ccc34561-50aa-4807-8f37-d7c3d43b1e11.jpg"width=30>
+<img src="https://user-images.githubusercontent.com/123810864/216813429-ccc34561-50aa-4807-8f37-d7c3d43b1e11.jpg" width=30>
 </a>
 /PODARGROUPOFSCHOOLS
 <br>
 
 <a href="https://twitter.com/PodarIndia">
-<img src="https://user-images.githubusercontent.com/123810864/216813452-7c28cfc9-81f2-44f3-9423-25070ba8506c.jpg"width=30>
+<img src="https://user-images.githubusercontent.com/123810864/216813452-7c28cfc9-81f2-44f3-9423-25070ba8506c.jpg" width=30>
 </a>
 /PODARINDIA
 <br>
 
 <a href="https://www.linkedin.com/company/podar-education-network-pvt-ltd/?original_referer=https%3A%2F%2Fwww.podareducation.org%2F">
-<img src="https://user-images.githubusercontent.com/123810864/216813434-08bd8230-5aaa-44d8-9821-11dd9f937621.jpg"width=30>
+<img src="https://user-images.githubusercontent.com/123810864/216813434-08bd8230-5aaa-44d8-9821-11dd9f937621.jpg" width=30>
 </a>
 /PODAR-EDUCATION-NETWORK-PVT
 <br>
 
 <a href="https://www.instagram.com/podargroupofschools/">
-<img src="https://user-images.githubusercontent.com/123810864/216813433-a829db7b-6a0d-496e-a402-7a96a605e1b9.jpg"width=30>
+<img src="https://user-images.githubusercontent.com/123810864/216813433-a829db7b-6a0d-496e-a402-7a96a605e1b9.jpg" width=30>
 </a>PODARGROUPOFSCHOOLS
 <br>
 
 <a href="https://www.youtube.com/channel/UCCvN-nw89aKX95l-NC_jWRw">
-<img src="https://user-images.githubusercontent.com/123810864/216813421-5e587743-8e3c-47b5-a57a-6de2309680ea.jpg"width=30>
+<img src="https://user-images.githubusercontent.com/123810864/216813421-5e587743-8e3c-47b5-a57a-6de2309680ea.jpg" width=30>
 </a>
 /PODAREDUCATIONNETWORK
 <br>
 <br>
-Source:<a href="https://www.podareducation.org/school/hassan">www.podareducation.org/school/hassan
+Source:<a href="https://www.podareducation.org/school/hassan">
+ www.podareducation.org/school/hassan
 </a>
 </B>
 <br>
