@@ -11,7 +11,7 @@ background-color:#8d62a4;
 </HEAD>
 <BODY>
 <img src="https://user-images.githubusercontent.com/123810864/216813439-42d37fc4-4a9e-4586-8e85-a9a5453c3a14.png"alt="PODAR INTERNATIONAL SCHOOL LOGO"width=250>
-<FONT SIZE=4><a href="ABOUT US.html"><B>ABOUT US</a>
+<FONT SIZE=4><a href="https://shashankgowdrud.github.io-aboutus.html/"><B>ABOUT US</a>
 <h1 style="color:purple;"><FONT SIZE=12>TRADITION OF EXCELLENCE</B></h1>
 <FONT SIZE=6><B>Educating 2,00,000 students through 139 Podar International Schools + 92
  Podar Partner Schools, Podar Education Network has established itself as a leader in 
